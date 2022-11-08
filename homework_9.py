@@ -1,9 +1,3 @@
-import pathlib
-
-
-directory = r"D:\study\GoIT\cours\python_core\module_9\homework_9\work_dir"
-path = pathlib.Path(directory)
-
 my_dict = {}
 
 def input_error(func):
